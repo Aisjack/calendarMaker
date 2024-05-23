@@ -12,3 +12,4 @@ D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\refint\calendarMak
 D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\calendarMaker.pdb
 D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\calendarMaker.genruntimeconfig.cache
 D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\ref\calendarMaker.dll
+D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\calendarMaker.sourcelink.json
