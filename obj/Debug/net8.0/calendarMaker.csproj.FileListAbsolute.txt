@@ -1,0 +1,14 @@
+D:\Ais Projects\calendar-maker\calendarMaker\bin\Debug\net8.0\calendarMaker.exe
+D:\Ais Projects\calendar-maker\calendarMaker\bin\Debug\net8.0\calendarMaker.deps.json
+D:\Ais Projects\calendar-maker\calendarMaker\bin\Debug\net8.0\calendarMaker.runtimeconfig.json
+D:\Ais Projects\calendar-maker\calendarMaker\bin\Debug\net8.0\calendarMaker.dll
+D:\Ais Projects\calendar-maker\calendarMaker\bin\Debug\net8.0\calendarMaker.pdb
+D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\calendarMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\calendarMaker.AssemblyInfoInputs.cache
+D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\calendarMaker.AssemblyInfo.cs
+D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\calendarMaker.csproj.CoreCompileInputs.cache
+D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\calendarMaker.dll
+D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\refint\calendarMaker.dll
+D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\calendarMaker.pdb
+D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\calendarMaker.genruntimeconfig.cache
+D:\Ais Projects\calendar-maker\calendarMaker\obj\Debug\net8.0\ref\calendarMaker.dll
