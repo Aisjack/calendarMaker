@@ -5,8 +5,6 @@ int yearProvidedToInt = Int32.Parse(yearProvided);
 int monthsInAYear = 12;
 int daysInAWeek = 7;
 
-
-
 for(int currentMonth = 1; currentMonth <= monthsInAYear; currentMonth++)
 {
     switch(currentMonth)
